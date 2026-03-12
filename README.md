@@ -28,8 +28,7 @@ npm run dev
 [Netlify Link]([https://todo-app-melis.netlify.app](https://todo-app-meliskara.netlify.app/))
 
 ## Screenshot
-
-![Todo App]<img width="1918" height="907" alt="Screenshot1" src="https://github.com/user-attachments/assets/560a9be9-5cd6-45f7-9c64-795c3335c055" />
+<img width="1918" height="907" alt="Screenshot1" src="https://github.com/user-attachments/assets/560a9be9-5cd6-45f7-9c64-795c3335c055" />
 ```
 
 ---
